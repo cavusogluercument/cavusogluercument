@@ -9,7 +9,7 @@
 <b>🌱 I'm currently learning</b> 😂<br/><br/>
 <b>🤔 I'm looking for help with Flutter front-end developer</b><br/><br/>
 <b>🥅 Goals for 2023: Developing an application that will make its voice heard in the world 🌎 <br/><br/>
-<b>⚡ Fun fact: I love swimming 🏊‍♀, İ usually like rearch and reading 🔎📚, 🛍 <br/><br/>
+<b>⚡ Fun fact: İ love swimming 🏊‍♀, İ usually like research and reading 🔎📚, 🛍 <br/><br/>
 
 
 
